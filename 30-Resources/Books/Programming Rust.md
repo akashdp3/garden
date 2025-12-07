@@ -127,25 +127,19 @@ assert_eq!(0 == 1, false); // VALID
 ```
 
 
-
 ### Characters, Strings & String Literals
 
 `Rust` have 3 different types for character/strings.
 
 - `char`: This represents a single character in rust. The compiler stores the value as it is in memory as 4 byte value.
-
 - `String`: This type represents a owned string stored in heap. The compiler stores it in UTF-8 format in memory i.e. as compared to `char`, this value is encoded and stored in UTF-8 format.
-
 - `&str`: This type represents a reference value to a `String`. Rust just points to a memory address for this type, it does not store anything in heap.
 ​
-
 ```rust
 let a = 'a'; // a is of char type when value is wrapped in single quote (ex. 'x')
 let b = "hello"; // b is of &str type. Values declared with double quote is treated as &str
 let c = String::from("hello"); // c is of String type. It is explicitly declared with String or to_string() method.
 ```
-
-
 
 ### Tuples
 
@@ -154,8 +148,6 @@ A `tuple` is a sequence of elements, separated by comma and surrounded by parent
 ```rust
 let x: (&str, &str) = ("Name", "Akash")
 ```
-
-
 
 ### Array
 
@@ -172,12 +164,8 @@ Many programming language use garbage collector to manage memory. Basically lang
 
 Rust solves this problem by introducing a new concept called `ownership`. It eliminates the need for a `garbage collector` while introducing a steeper learning curve.
 
-
-
 Memory management has two important characteristics:
-
 - Memory needs to be freed promptly.
-
 - Rust guarantees **no undefined behaviour.** So no pointer to a freed memory should exist.
 
 
