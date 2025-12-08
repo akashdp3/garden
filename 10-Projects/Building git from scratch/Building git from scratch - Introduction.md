@@ -4,7 +4,6 @@ tags:
   - blog
   - building-from-scratch
 ---
-
 # Building git from scratch - Introduction
 
 ## Overview
