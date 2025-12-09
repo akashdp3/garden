@@ -29,7 +29,16 @@ Transport
 
 Things to do
 - Day 1
+    - Hum Thom Cable car
+    - Sunset town
+    - Kiss of sea beach 
+    - Kiss of the sea beach (optional)
+    - Gandola / boat ride at grand world
+    - Lasor show at grand world
 - Day 2
-	- Morning - Cable car to Hom Thom Island
-	- 
+	- Vin Wonders Phu Quoc 
+- Day 3
+    - Safari
+
+
 
