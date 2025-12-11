@@ -40,5 +40,17 @@ Things to do
 - Day 3
     - Safari
 
+### Danang 
 
+#### Arrival
+- Need to leave for airport by 14:00 (12 min ride to airport from hotel)
+- Flight: 16th Dec 18:10 to 19:55
+- Ticket:
+    ![[DOC-20251102-WA0001..pdf]]
 
+### Hanoi
+
+#### Arrival
+- Need to leave airport by 04:00.
+- Flight: 19 Dec 05:45 to 07:05
+- Ticket: ![[DOC-20251122-WA0032..pdf]]
