@@ -1,5 +1,3 @@
-# Ownership eliminates garbage collection overhead
-
 Rust's ownership system manages memory at compile-time, removing the need for garbage collection while preventing memory safety bugs.
 
 ## The Problem

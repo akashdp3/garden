@@ -1,4 +1,3 @@
-# Type inference improves code readability
 
 Type inference allows the compiler to deduce types automatically, reducing visual clutter while maintaining type safety.
 

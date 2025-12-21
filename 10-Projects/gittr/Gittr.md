@@ -43,10 +43,29 @@ Three-tier layered architecture:
 
 ## Tech Stack
 
-- React
-- TypeScript
-- Tailwind CSS
-- Lucide icons
+- **Frontend**: React, TypeScript, Tailwind CSS, Lucide icons
+- **Backend**: Tauri (Rust)
+- **Performance**: In-memory frontend processing for speed
+
+## Design Philosophy & Differentiation
+
+### UI/UX Focus
+Design a modern developer workspace that is fast and easy to use:
+- **Performance-first**: Built with Tauri for native performance
+- **Keyboard-centric**: Full keyboard navigation support
+- **Command-driven**: `cmd + K` opens command center
+
+### Design References
+- **Lazygit**: Ease of use and performance inspiration
+- **GitKraken, Linear, Railway**: Modern look and feel
+- **Local-only**: No cloud dependencies, complete privacy
+
+### Key Features
+- Open and manage basic git operations
+- Advanced git operations support
+- Performant and easy to use
+- Full keyboard navigation
+- Command center (`cmd + K`)
 
 ## Current Status
 
@@ -92,4 +111,4 @@ The AI identifies:
 
 ## Notes
 
-- Located at: [[99-Meta/claude.md]] for detailed context
+- Located at: [[claude]] for detailed context

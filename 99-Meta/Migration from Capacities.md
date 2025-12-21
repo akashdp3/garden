@@ -112,4 +112,4 @@ You can delete it once you've verified the migration is complete.
 
 ---
 
-*For system documentation, see [[claude.md]]*
+*For system documentation, see [[claude]]*
