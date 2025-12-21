@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"d122051c34273688","x":-67,"y":-160,"width":307,"height":320,"color":"5","type":"text","text":"# Gittr\n\n### Features\nGit\n- Manage git repository locally\n- Get AI insights regarding code changes. \n- Creates changelog or update documentation as neede"}
+	],
+	"edges":[]
+}
