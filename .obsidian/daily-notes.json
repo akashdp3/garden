@@ -1,6 +1,6 @@
 {
   "folder": "00-Inbox/01-Journals",
   "format": "YYYY-MM-DD",
-  "template": "99-Meta/Templates/Daily Note",
+  "template": "90-Templates/Daily Note Template",
   "autorun": true
 }
